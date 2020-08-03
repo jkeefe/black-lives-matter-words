@@ -1,0 +1,160 @@
+sentences similar to: "it's more important than ever that we ground ourselves in the fundamental values that define us as a company."
+
+0, "Dear Colleagues, During these extraordinary times, when many parts of our lives have changed, it's more important than ever that we ground ourselves in the fundamental values that define us as a company.", Exelon.txt
+1, "In doing so, we have aligned ourselves with the values that you, our clients, live on a day-to-day basis through your inspiring work – values that are grounded in the dignity and worth of every human being.", TIAA.txt
+2, "But, more than that, we reflect our core values to the world, and we advocate to make the places we live and work more inclusive.", Dow Chemical.txt
+3, "With that in mind, now and each day, we remain guided by Our Purpose and Our Values of Integrity and Honesty, Safety and Respect, Diversity and Inclusion.", Kroger.txt
+4, "One of the key ways we can continue to improve as a company and as individuals is to listen to each other’s perspectives with respect, patience and humility.", Costco.txt
+5, "Our greatest strength is our culture - ultimately, that is a system of values, expectations, and accountability for all of us.", HCA.txt
+6, "Over our company’s history, we have built an environment where we take care of each other, build strong relationships and value respect for all people.", Home Depot.txt
+7, "We are all in this together, and we can only achieve our highest potential if we all work to ensure that we have a culture where everyone feels safe, respected and valued.", American Express.txt
+8, "Importantly, our ability to excel as a globally interconnected work force must be buttressed by a collective sense of purpose and our shared values as a community.", Goldman Sachs.txt
+9, "These values are core to who we are and how we operate.", Fedex.txt
+10, "But we need to be honest about the disparities we know exist in our society, and diligent in continually finding ways to ensure that the values we espouse come to life in our workplace.", Fannie Mae.txt
+11, "That’s why we’re spending time listening to employees and seeking their input on meaningful actions we can take, both internal and external.", Coca Cola.txt
+12, "In order to be successful as a business in empowering everyone on the planet, we need to reflect the world we serve.", Microsoft.txt
+13, "Now, more than ever, is the time for us to listen with open hearts and to lead with empathy — toward each other, toward our customers and toward our communities.", Publix.txt
+14, "Beyond our everyday individual behaviors, we will also act collectively as a company.", Walmart.txt
+15, "While outside our walls, we are also actively working to unify business leaders to use our collective voices to drive change in our communities and workplaces.", MassMutual.txt
+
+-----
+sentences similar to: "Recent racial discrimination incidents in Minnesota, New York, Kentucky and Georgia have drawn widespread national attention"
+
+0, "Recent racial discrimination incidents in Minnesota, New York, Kentucky and Georgia have drawn widespread national attention and, while not within our company, remind us, once again, that our focus on our values of respect, diversity and inclusion cannot waver.", Exelon.txt
+1, "The murders of George Floyd in Minneapolis, Breonna Taylor in Kentucky, and Ahmaud Arbery in Georgia are the most recent names added to a lengthy list of horrors faced by black people over the past several hundred years.", Berkshire Hathaway.txt
+2, "From the devastating and disproportionate impacts of COVID-19 to the devastating impacts of police brutality, the long-standing racial injustice in America that began 400 years ago is impossible to ignore.", Dell.txt
+3, "This is why I have signed a letter in support of a resolution before the Columbus City Council which would declare racism to be a Public Health Crisis.", Nationwide.txt
+4, "The pandemic coupled with these recent injustices have pushed the issues of racial disparity into the open.", Disney.txt
+5, "In the United States, the company has supported the passage of hate crimes legislation in Georgia, and has committed to urging the governors and legislatures of states without similar legislation – including Arkansas, South Carolina and Wyoming – to prioritize passing a bill.", UPS.txt
+6, "Racism continues to be at the root of so much pain and ugliness in our society – from the streets of Minneapolis to the disparities inflicted by COVID-19.", CitiBank.txt
+7, "LOUISVILLE, Ky.--(BUSINESS WIRE)--Today, Humana (NYSE: HUM) announced actions to support its hometown of Louisville in its efforts to address racial inequity and unite toward a stronger community.", Humana.txt
+8, "Recent events in America are a sobering reminder of our country’s long and troubled history of racial inequality and injustice.", Capital One.txt
+9, "Racial injustice affects cities and towns across our nation.", AT&T.txt
+10, "The racist events that have taken place over the last few weeks have shaken us deeply and bring to the forefront the ongoing issues of racisms in the U.S.", Pfizer.txt
+11, "It is ripping at the fabric of our communities, revealing the open wounds of race relations in this country.", New York Life Insurance.txt
+12, "Laurie Nordquist, Upper Midwest lead region president, has joined with leaders from other Minneapolis companies in making a joint statement to express their outrage about Mr. Floyd’s death and their commitment to investing in substantive change to address racial inequities and social justice.", Wells Fargo.txt
+13, "• NAACP Legal Defense and Educational Fund, a leading legal organization fighting for racial justice.", Verizon.txt
+14, "“Systemic racism and the events that have unfolded across America over the past few weeks serve as an urgent reminder of the continued change needed in our society.", nike.txt
+15, "We also recognize that while the events in Minneapolis shock the consciences of all, they touch our African American employees in particular and painful ways.", Fannie Mae.txt
+
+-----
+sentences similar to: "our focus on our values of respect, diversity and inclusion cannot waver. "
+
+0, "Diversity and respect for all people are core to who we are as an Orange-Blooded family.", Home Depot.txt
+1, "We remain committed to ensuring that we have a welcoming and inclusive environment where everyone’s voice matters and where people of all backgrounds, cultures and viewpoints can thrive.", American Express.txt
+2, "We also realize that now more than ever is the time for us all to further strengthen our commitment to diversity and inclusion everywhere.", Disney.txt
+3, "We remain committed to promoting diversity and inclusion, respect and integrity within our own company, and in the communities where we live and work, and we understand the urgency to act now to fight systemic racism and ensure equality for all.", ADM.txt
+4, "But deep in our hearts, all of us know we can do even more to make AbbVie a leader in equality, diversity and inclusion.", AbbVie.txt
+5, "These tragedies have reaffirmed our commitment to live by our Sysco Values and cultivate a company culture that makes diversity, inclusiveness, equality and belonging top priorities.", Sysco.txt
+6, "We are committed to not only being a voice, but also doing the right things to fully embrace equality, diversity and inclusion and loudly reject racism and all forms of bias.", AbbVie.txt
+7, "As a company that is deeply committed to diversity, inclusion and human rights, we will strengthen our resolve in advocating for change and in doing our part so that we build a society that protects all people and values all voices.", MetLife.txt
+8, "It stresses the importance of fostering diversity and inclusion, dignity, and respect among our employees and supporting and respecting the communities in which we work.", Wells Fargo.txt
+9, "Diversity and inclusion are foundational to The Chevron Way and it is up to all of us to be present, be allies and be actionable in the ugly face of racism, discrimination and injustice.", chevron.txt
+10, "With that in mind, now and each day, we remain guided by Our Purpose and Our Values of Integrity and Honesty, Safety and Respect, Diversity and Inclusion.", Kroger.txt
+11, "We believe our team members learn from, understand and ultimately grow from our inherent racial, cultural, religious and gender differences.", Tyson.txt
+12, "We seek and embrace diversity.", Capital One.txt
+13, "We must stand with all who are committed to change that will bring us closer to realizing an end to discrimination and hatred.", Home Depot.txt
+14, "We are committed to fostering a culture of respect.", GE.txt
+15, "Diversity, equity and inclusion are fundamental to our core values and to an environment where all people can bring their authentic selves to work and feel safe, welcomed, valued and respected.", Progressive.txt
+
+-----
+sentences similar to: "Supporting, encouraging and engaging everyone in our company – no matter their gender, color of their skin, sexual orientation, disability, religion, point of view or other unique qualities – are actions we must take every day. "
+
+0, "Supporting, encouraging and engaging everyone in our company – no matter their gender, color of their skin, sexual orientation, disability, religion, point of view or other unique qualities – are actions we must take every day.", Exelon.txt
+1, "The values we embrace in pursuit of this mission are built upon the belief that every individual has unique and intrinsic value, regardless of race, gender, religion, sexual orientation, or whatever makes us different.", HCA.txt
+2, "Each person who walks through our doors — no matter their race, religion, age, gender identity, or any other type of background — will be treated with Courtesy, Dignity, and Respect.", Albertsons.txt
+3, "We believe our team members learn from, understand and ultimately grow from our inherent racial, cultural, religious and gender differences.", Tyson.txt
+4, ""We, as a global health service company, firmly and unequivocally denounce racism and discrimination in all forms and are committed to confronting these issues with intensity, empathy and accountability."", Cigna.txt
+5, "We strive to have a diverse employee population and recognize that only by interacting with, and listening to people of all races, backgrounds, ethnicities, sexual orientations and abilities can we hope to truly understand and appreciate one another.", Comcast.txt
+6, "We do many things so well, however we have not found a meaningful way to engage in the courageous conversations around race, gender and orientation bias.", USAA.txt
+7, "And it is one that requires all of us, in our professional and personal lives, to define who we are through words and deeds that reject racism and bias and repel discrimination and hatred.", New York Life Insurance.txt
+8, "Each of us is a product of our life experiences and those are shaped by our gender, ethnic background and orientation, including the color of our skin.", USAA.txt
+9, "We remain committed to promoting diversity and inclusion, respect and integrity within our own company, and in the communities where we live and work, and we understand the urgency to act now to fight systemic racism and ensure equality for all.", ADM.txt
+10, "Diversity and inclusion are foundational to The Chevron Way and it is up to all of us to be present, be allies and be actionable in the ugly face of racism, discrimination and injustice.", chevron.txt
+11, "“Caring for each other and respecting differences is who we are as a company, and we do not tolerate racism or discrimination of any kind.", Humana.txt
+12, "We are committed to not only being a voice, but also doing the right things to fully embrace equality, diversity and inclusion and loudly reject racism and all forms of bias.", AbbVie.txt
+13, "- Providing a 2:1 match for employees who wish to support organizations working to help address racial equality and social justice issues.", AbbVie.txt
+14, "We’ll continue to educate and show our leaders and associates how to be stronger allies – to be more empathetic, supportive and aware of our own unconscious bias.", Kroger.txt
+15, "We stand against hate-filled behavior and language, and remain dedicated to our global commitment to treat everyone with empathy, dignity and respect.", Liberty Mutual Insurance.txt
+
+-----
+sentences similar to: "While social distancing separates us, this is not a time to be passive, but a time to reach out to colleagues, engage in a dialogue, make sure they're okay and their voices are heard. To let them know they are valued and important."
+
+0, "While social distancing separates us, this is not a time to be passive, but a time to reach out to colleagues, engage in a dialogue, make sure they're okay and their voices are heard.", Exelon.txt
+1, "Now, more than ever, is the time for us to listen with open hearts and to lead with empathy — toward each other, toward our customers and toward our communities.", Publix.txt
+2, "To guard against that, we must continue to be aware of what is happening, speak out against injustices and be willing to talk candidly in an environment of honest dialogue.", Goldman Sachs.txt
+3, "We’re creating more opportunities for our associates to openly share their thoughts and feelings about their experiences with discrimination – and for our company and leaders to more deeply and deliberately listen.", Kroger.txt
+4, "Listening with compassion and taking action when it is needed are critical to ensuring that racism and hatred have no place at our company.", Albertsons.txt
+5, "In the coming days, I encourage each of us to step outside of our comfort zones, seek to understand, engage in productive conversations and hold ourselves accountable for being part of the solution.", Nationwide.txt
+6, "For me, it starts with seeing the situation for what it is, acknowledging these experiences for what they are and, quite simply, apologizing for not doing enough.", Best Buy.txt
+7, "I ask you to reflect on your individual thoughts and actions and ensure they are consistent with Our Values.", Caterpillar.txt
+8, "My advice for each of us is to actively listen to each other, forgive well-intentioned questions or comments as we have what can be uncomfortable conversations, create a safe space for learning and be purposeful about what you read and listen to.", Walmart.txt
+9, "We should demonstrate empathy and kindness in all our actions and be willing to address these topics in and outside of the workplace.", Fedex.txt
+10, "We’ll continue to educate and show our leaders and associates how to be stronger allies – to be more empathetic, supportive and aware of our own unconscious bias.", Kroger.txt
+11, "I believe that listening to diverse perspectives and summoning the courage to start crucial conversations is the first step in fostering inclusivity and creating environments where each of us feels like we belong.", USAA.txt
+12, "The last few days, in particular, have been a painful reminder that there must be a deeper and more robust dialogue about our values, and we must live those values, as well as continue our efforts to foster a diverse and respectful work environment.", AIG.txt
+13, "We know that the first step toward change is to speak up, so I want to be very clear: Black Lives Matter, to our company and to me.", Pepsico.txt
+14, "Each of us, starting with me, must look at where we are as individuals, confront our fixed mindset and act.", Microsoft.txt
+15, "Each of us can make a difference simply by asking how others are doing and spending time listening to their experiences, fears, and concerns, so we can learn more about what we can do as allies to take meaningful action and offer our support.", MassMutual.txt
+
+-----
+sentences similar to: "There is no room in our company for hate, intolerance, discrimination or harassment of any kind – either obvious or covert – toward our colleagues or customers. "
+
+0, "There is no room in our company for hate, intolerance, discrimination or harassment of any kind – either obvious or covert – toward our colleagues or customers.", Exelon.txt
+1, "We remain committed to taking care of our employees, building a diverse workforce, maintaining work environments that are free from discrimination and harassment, and treating each other in a fair, honest, respectful and inclusive way.", Costco.txt
+2, "Every member of my team has committed personally to confronting racism and building more inclusive opportunities — both inside our company and in our communities.", Boeing.txt
+3, "If anyone experiences, or witnesses, any behavior that is not in line with our racial discrimination policy, it is our expectation and requirement that you report it immediately to your supervisor, Human Resources, Legal, or the Access Helpline.", Honeywell.txt
+4, ""We, as a global health service company, firmly and unequivocally denounce racism and discrimination in all forms and are committed to confronting these issues with intensity, empathy and accountability."", Cigna.txt
+5, "We’re creating more opportunities for our associates to openly share their thoughts and feelings about their experiences with discrimination – and for our company and leaders to more deeply and deliberately listen.", Kroger.txt
+6, "Remember, we will never tolerate retaliation against those who step forward in good faith to report problems or concerns related to our Harassment Policy or Code of Business Conduct.", Honeywell.txt
+7, "But it is clear that promoting a diverse and inclusive work environment is not enough.", Tyson.txt
+8, "Any incidents of conscious or unconscious bias toward our customers and team members is unacceptable and will be addressed appropriately.", American Airlines.txt
+9, "We’ve delivered implicit bias training for more than 100,000 of our team members and created a specialized customer relations team to listen to, resolve and learn from any customer complaints of discrimination.", American Airlines.txt
+10, "• Enhancing our policies: We will continue to directly address acts of bias and racism whether in social media or our workplace.", American Airlines.txt
+11, "And we are committed to act: We have and will continue to build a diverse employee and leadership base to reflect the consumers we serve, and foster an inclusive, respectful, welcoming and affirming culture.", P&G.txt
+12, "Of course, these issues go far beyond the confines of our company, affecting our families and friends, as well as our colleagues.", American Express.txt
+13, "We strive to make GDIT a place where every employee feels valued and respected; one where employees see themselves and feel heard.", General Dynamics.txt
+14, "We know our words and actions aren’t enough to bring about broader change, so we are working to help enact change at a higher level through my involvement with the Business Roundtable and as a member of the CEO Action for Diversity & Inclusion.", Progressive.txt
+15, "We also provide an independent and confidential compliance hotline, allowing all our employees to freely and confidentially bring up concerns enabling ADM to take appropriate measures to ensure equal opportunities for all.", ADM.txt
+
+-----
+sentences similar to: "We cannot tolerate it and none of us can stand by quietly if we observe it."
+
+0, "We cannot tolerate it and none of us can stand by quietly if we observe it.", Exelon.txt
+1, "And we can control how we treat each other.", American Express.txt
+2, "While we cannot control what happens beyond our walls, we can step up, step forward and help create the world in which we want to live.", P&G.txt
+3, "It is all our responsibilities to embrace that fact in what we say and what we do.", Walmart.txt
+4, "As I’ve said before, we must focus on what we can control.", American Express.txt
+5, "We must take this moment to embrace the fundamental values that unite us.", Raytheon.txt
+6, "We can control the words we use, the viewpoints we embrace and the actions we take.", American Express.txt
+7, "To achieve this progress, each of us must live up to our responsibility to work towards true peace.", AmerisourceBergen.txt
+8, "We can lead by example and lean into our inclusive culture.", Dell.txt
+9, "To create change, we have to reexamine our own views and actions in light of a pain that is deeply felt but too often ignored.", Apple.txt
+10, "Issues of human dignity will not abide standing on the sidelines.", Apple.txt
+11, "We can start by living more deeply into our values.", Intel.txt
+12, "We must push ourselves to influence change and create compassion.", State Farm.txt
+13, "We cannot episodically wake up when a new tragedy occurs.", Microsoft.txt
+14, "These are our core beliefs – the essence of who we are – and they do not change, no matter the circumstances.", Kroger.txt
+15, "We have a responsibility to enable change in our communities.", Northrop Grumman.txt
+
+-----
+sentences similar to: "These events impact us, our customers and the communities we serve, and we are called to action."
+
+0, "These events impact us, our customers and the communities we serve, and we are called to action.", Exelon.txt
+1, "We will continue our focus on being more representative of our consumers while doing our part in the communities we serve.”", nike.txt
+2, "And we are committed to act: We have and will continue to build a diverse employee and leadership base to reflect the consumers we serve, and foster an inclusive, respectful, welcoming and affirming culture.", P&G.txt
+3, "Thank you for all you are doing to support our customers, our communities, and each other.", Wells Fargo.txt
+4, "Beyond our everyday individual behaviors, we will also act collectively as a company.", Walmart.txt
+5, "Further, we are observing Juneteenth as an annual company holiday to provide Allstaters the opportunity to reflect on this monumental event and engage in their communities.", Allstate.txt
+6, "- In light of my call to action and recent events, this Friday, June 19, AbbVie will observe Juneteenth to take the time to reflect on the changes that have to occur in our Company, our communities and society as a whole.", AbbVie.txt
+7, "We act for one another, our customers, our dealers, our communities, and the world around us.", John Deere.txt
+8, "We remain steadfast in our commitment to fairness and equity for our employees, members and communities.", Costco.txt
+9, "We’re openly listening to our associates and community partners, and we’re engaging advocacy groups to further understand what more we can do.", Kroger.txt
+10, "The actions listed below are not exhaustive but reflect some of the many steps in our efforts to reaffirm and reinforce our core values as well as support our country and our team members as we work to drive real, lasting change for our society.", Tyson.txt
+11, "Coca-Cola is committed to making a difference in our communities and within our company by mobilizing our history of advancing civil rights and by rallying the strength of our employees, families and friends.", Coca Cola.txt
+12, "Now, more than ever, is the time for us to listen with open hearts and to lead with empathy — toward each other, toward our customers and toward our communities.", Publix.txt
+13, "Our colleagues, customers and communities demand more from us.", Sysco.txt
+14, "Our response to COVID-19 is an example of how when we come together, united against a common enemy, we are unstoppable in helping each other, our clients and other stakeholders.", AIG.txt
+15, "Over the past year, we have been thinking a lot about the purpose of our organization and the work we do with our customers and partners.", Cisco.txt
+
+-----
