@@ -1,6 +1,6 @@
 # black-lives-matter-words
 
-A semantic analysis of corporate statements during the summer of 2020 in support of the Black Lives Matter movement. This was an exploration project for journalist Sonia Weiser. See her article about it in Business Insider.
+A semantic analysis of corporate statements during the summer of 2020 in support of the Black Lives Matter movement. This was an exploration project for journalist [Sonia Weiser](https://twitter.com/weischoice).
 
 ## Try it yourself
 
@@ -14,7 +14,7 @@ To try it yourself:
 - Choose the "Github" tab
 - Type "jkeefe" on the top line and press enter.
 - Pick this "black-lives-matter-words" repo
-- Pick this notebook, `semantic_scoring.ipynb`
+- Pick this notebook: `semantic_scoring.ipynb`
 
 ## Questions or thoughts?
 
